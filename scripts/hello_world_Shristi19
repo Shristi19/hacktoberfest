@@ -1,0 +1,6 @@
+// LANGUAGE: Python
+// ENV: pycharm
+// AUTHOR: Shristi Jalan
+// GITHUB: https://github.com/Shristi19
+
+print('Hello, World!')
